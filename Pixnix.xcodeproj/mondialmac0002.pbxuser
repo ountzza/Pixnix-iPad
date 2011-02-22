@@ -1,0 +1,113 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Pixnix */ = {
+		activeExec = 0;
+		executables = (
+			E6E800811313D51A007E6969 /* Pixnix */,
+		);
+	};
+	28D7ACF70DDB3853001CB0EB /* PixnixViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {812, 992}}";
+			sepNavSelRange = "{172, 0}";
+			sepNavVisRange = "{0, 668}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = E6E800811313D51A007E6969 /* Pixnix */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Pixnix */;
+		codeSenseManager = E6E800911313D51C007E6969 /* Code sense */;
+		executables = (
+			E6E800811313D51A007E6969 /* Pixnix */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 320066857;
+			PBXWorkspaceStateSaveDate = 320066857;
+		};
+		perUserProjectItems = {
+			E6E8009E1313D53D007E6969 /* PBXBookmark */ = E6E8009E1313D53D007E6969 /* PBXBookmark */;
+			E6E8009F1313D53D007E6969 /* PBXTextBookmark */ = E6E8009F1313D53D007E6969 /* PBXTextBookmark */;
+		};
+		sourceControlManager = E6E800901313D51C007E6969 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	E6E800811313D51A007E6969 /* Pixnix */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Pixnix;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	E6E800901313D51C007E6969 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E6E800911313D51C007E6969 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E6E8009E1313D53D007E6969 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PixnixViewController.m */;
+	};
+	E6E8009F1313D53D007E6969 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PixnixViewController.m */;
+		name = "PixnixViewController.m: 9";
+		rLen = 0;
+		rLoc = 172;
+		rType = 0;
+		vrLen = 668;
+		vrLoc = 0;
+	};
+}
